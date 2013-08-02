@@ -10,3 +10,5 @@ Most of these problem can be found at:
 http://www.rubeque.com/
 
 http://projecteuler.net/
+
+Push
