@@ -33,3 +33,8 @@ Push an existing repository from the command line
 git remote add origin https://github.com/hcai27/test.git
 
 git push -u origin master
+
+How to push repo to github.  Use this help link
+
+https://help.github.com/articles/pushing-to-a-remote
+
